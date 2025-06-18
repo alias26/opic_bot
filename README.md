@@ -1,6 +1,4 @@
-# Sqaures-T2W
-## Demo Video
-<img src='assets/demo.gif' width="100%" height="40%"></img>
+# OPIc Bot
 
 ## 설명
 **AI Prompt를 통해 오픽 스크립트트을 만들어주는 챗봇 생성**
